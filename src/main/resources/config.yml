@@ -1,0 +1,4 @@
+login:
+  - "$DARK_RED$PLAYER$YELLOW has joined the server$WHITE."
+logout:
+  - "$DARK_RED$PLAYER$YELLOW has left the server$WHITE."

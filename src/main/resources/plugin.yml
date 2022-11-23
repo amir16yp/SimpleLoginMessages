@@ -1,0 +1,7 @@
+name: SimpleLoginMessages
+version: '${project.version}'
+main: loginmessage.loginmessage.LoginMessage
+api-version: 1.15
+authors: [ TuxPenguinS ]
+description: Easily create custom login messages
+website: mkultra.tk
